@@ -1,3 +1,1 @@
-# Linear_Algebra
-Discrete III<br>
-I. Introduction to Vectors
+Answers for Assignments in Discrete Structure 3101 Course Subject by Alleyah Pauline C. Manalili
